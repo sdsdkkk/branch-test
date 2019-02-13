@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+source test/framework/cli
+source test/framework/complete
+source test/framework/help
+source test/framework/utils
+cli "$@"
