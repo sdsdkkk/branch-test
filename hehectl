@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+source hehe/framework/cli
+source hehe/framework/complete
+source hehe/framework/help
+source hehe/framework/utils
+cli "$@"
